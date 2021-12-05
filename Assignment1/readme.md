@@ -1,1 +1,1 @@
-This is AI MLOps course ofeered by Omdena School
+This is AI MLOps course offered by Omdena School
